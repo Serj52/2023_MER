@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "ROBOT MER"
+export rpauser="rpauser"
+~/PycharmProjects/2022_mer/venv/bin/python ~/PycharmProjects/2022_mer/main.py
